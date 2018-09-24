@@ -1,0 +1,25 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.1.0",
+    "@material-ui/icons": "^3.0.1",
+    "@nivo/line": "^0.49.1",
+    "accounting": "^0.4.1",
+    "aviator": "^0.6.6",
+    "immutable": "^3.8.2",
+    "moment": "^2.22.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-grid-layout": "^0.16.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
